@@ -1,0 +1,74 @@
+---
+layout: default
+title: Home
+---
+<html>
+    <head>
+        <title>Team NMS</title>
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+        <link rel="stylesheet" href="./assets/css/index.css">
+        <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,900&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id="memberofmonth"></div>
+        <div class="article">
+            <div class="container" id="twitterembed">
+                <a class="twitter-timeline" data-height="500" data-theme="dark" href="https://twitter.com/NMSorg?ref_src=twsrc%5Etfw">Tweets by NMSorg</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+            <div class="container" id="twitterdescrip">
+                <div class="container">
+                    <span id="twitterdescriptitle">
+                        <a class="fab fa-twitter" style="font-size: 35px;" href="https://twitter.com/NMSorg" target="_blank" draggable="false"></a>
+                        <span style="margin-left: 30px;">Twitter Feed</span>
+                    </span><br>
+                    <span id="twitterdescriptitle-descrip">Keep up with our latest tweets!</span><br>
+                    <div class="container" style="line-height: 100%; text-align: center; height: 30px; padding: 10px;">
+                        <a href="https://twitter.com/NMSorg?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" style="padding-left: 30px;">Follow @NMSorg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                        <a href="https://twitter.com/intent/tweet?screen_name=NMSorg&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @NMSorg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    </div>
+                </div>
+                <div class="container">
+                    <span id="twitterdescriptitle">
+                        <a class="fab fa-discord" style="font-size: 35px;" href="https://discord.gg/vAthqhG" target="_blank" draggable="false"></a>
+                        <span style="margin-left: 30px;">Discord Server!</span>
+                    </span><br>
+                    <span id="twitterdescriptitle-descrip">Join our discord server!</span>
+                    <div class="container" style="margin-top: 50px;">
+                        <a id="applybutton" href="https://discord.gg/vAthqhG"><img src="./assets/PNG/other/discord.png" height="50px" style="vertical-align: middle;" id="discordbuttoninner"></a>
+                    </div>
+                </div>
+                <div class="container" style="margin-top: 50px;">
+                    <span id="twitterdescriptitle">Apply</span><br>
+                    <br><span id="twitterdescriptitle-descrip">To potentially become part of NMS please hit the apply button below.</span>
+                    <div class="container" style="margin-top: 50px;">
+                        <a id="applytwitter" href="https://twitter.com/NMSorg" style="margin-top: 50px;">Apply</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="article" style="text-align: center;" id="twitch">
+            <span class="article-title"><a class="fab fa-youtube" href="https://www.youtube.com/channel/UC24WSmIE2LpFr81QvbM713Q" target="_blank" style="font-size: 35px;" draggable="false"></a>Youtube</span>
+            <iframe width="1280" height="720" src="https://www.youtube.com/embed/EAbS3D8bKhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="article" style="text-align: center;" id="twitch">
+            <span class="article-title"><a class="fab fa-twitch" href="https://www.twitch.tv/nmsorg" target="_blank" style="font-size: 35px;" draggable="false"></a>Twitch Streams</span>
+            <!-- Add a placeholder for the Twitch embed -->
+            <div id="twitch-embed"></div>
+
+            <!-- Load the Twitch embed script -->
+            <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+            <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
+            <script type="text/javascript">
+            new Twitch.Embed("twitch-embed", {
+                width: 1280,
+                height: 720,
+                channel: "nmsorg",
+                // only needed if your site is also embedded on embed.example.com and othersite.example.com 
+                parent: ["nmsorg.co.uk"]
+            });
+            </script>
+        </div>
+    </body>
+</html>
