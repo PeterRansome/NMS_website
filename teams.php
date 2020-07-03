@@ -16,7 +16,7 @@
         <div class="container">
         <div class="row portfolio-items">
             <div class="col-sm-6">
-              <div class="portfolio-item"><a href="#"><img src="/assets/img/csgo_team.jpg" alt="">
+              <div class="portfolio-item"><a href="/teams/csgo.php"><img src="/assets/img/csgo_team.jpg" alt="">
               </a>
             </div>
             </div>
