@@ -1,0 +1,280 @@
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+        <meta charset="utf-8">
+        <!-- Site Title -->
+        <title>Team NMS</title>
+        <meta name="description" content="Nothing Makes Sense is the boldest British esports organisation with a global presence. In a short space of time we have established ourselves as one of the top esports organisations. We are currently competing in CS:GO, Rocket League, FIFA, Fortnite and Rainbow 6 Siege. As well as having very entertianing Content Creators. Our rapid growth is led by our extensive experience within the gaming and esports community, along with our drive to make us a success.Here at NMS we are more than just an organisation, we are a family." />
+        <meta name="viewport" content="width=device-width" />
+        
+        <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/assets/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/assets/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/assets/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/assets/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/assets/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/assets/favicon/manifest.json">
+
+                
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/assets/favicon/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <meta name="author" content="snuggle.partners" />
+        <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" /><link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"><link rel="stylesheet" type="text/css" href="/assets/css/main.css" /><link rel="stylesheet" type="text/css" href="/assets/css/blackrhino.css" />    
+
+    <script type="text/javascript" src="https://secure.perk0mean.com/js/185382.js" ></script>
+    <noscript><img alt="" src="https://secure.perk0mean.com/185382.png" style="display:none;" /></noscript>
+    
+    <script type="text/javascript">
+var _iub = _iub || [];
+_iub.csConfiguration = {"lang":"en","siteId":1782134,"cookiePolicyId":27748971, "banner":{ "acceptButtonDisplay":true,"customizeButtonDisplay":true,"position":"float-top-center" }};
+</script><script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
+    
+    
+    </head>
+<nav class="navbar navbar-unibody navbar-center navbar-custom navbar-fixed-top">
+  
+      <div class="container">
+        <div class="navbar-header">
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-main-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+
+          <a class="navbar-brand page-scroll" href="#page-top">
+            <!-- Text or Image logo-->
+            <div class="logobig"><span class="logo classic"><img src="/assets/img/logo.png" /></span><span class="logodark classic"><img src="/assets/img/logo-dark2.png" /></span></div></a>
+
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling-->
+        <div class="collapse navbar-collapse navbar-main-collapse">
+          <ul class="nav navbar-nav">
+        <!-- Hidden li included to remove active class from about link when scrolled up past about section-->
+            <li class="hidden"><a href="#page-top"></a></li>
+            <!--<li><a href="/">Home <span class="caret"></span></a>
+            </li>-->
+
+             <li><a href="/teams">Teams <span class="caret"></span></a>
+            </li>
+
+              <li><a href="https://gamersapparel.co.uk/search?s=Nms">Merch <span class="caret"></span></a>
+            </li>
+
+            <li><a href="#sponsors">Sponsors <span class="caret"></span></a>
+            </li>
+
+            <!--<li><a href="/our-services/uv-printing">UV Printing <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="/our-services/uv-printing/products">Products</a></li>
+                <li><a href="/our-services/uv-printing/examples">Examples</a></li>
+              </ul>
+            </li>
+
+            <li><a href="/our-services/sublimation">Sublimation <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="/our-services/sublimation/products">Products</a></li>
+                <li><a href="/our-services/sublimation/examples">Examples</a></li>
+              </ul>
+            </li>-->
+
+          </ul>
+          <ul class="nav navbar-nav pull-right">
+            <li><a class="fab fa-twitter" href="https://twitter.com/NMSorg" target="_blank"><span class="caret"></span></a>
+            </li>
+
+            <li><a class="fab fa-twitch" href="https://www.twitch.tv/nmsorg" target="_blank"><span class="caret"></span></a>
+            </li>
+
+            <li><a class="fab fa-instagram" href="https://www.instagram.com/nms_org/" target="_blank"></a><span class="caret"></span></a>
+            </li>
+
+            <li><a class="fab fa-youtube" href="https://www.youtube.com/channel/UC24WSmIE2LpFr81QvbM713Q" target="_blank"><span class="caret"></span></a>
+            </li>
+
+            <li><a class="fab fa-discord" href="https://discord.gg/vAthqhG" target="_blank"></a><span class="caret"></span></a>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+     <header class="intro" data-background="/assets/img/main_banner4.jpg">
+      <div class="intro-body">
+        <div class="container text-left">
+          <div class="row">
+            <div class="col-lg-6">
+              <h2>Check out our latest merch</h2>
+              <p>We are always keeping our designs up to date and looking to expand our collection!</p>
+              <a href="https://gamersapparel.co.uk/search?s=Nms"><button class="btn btn-dark wow fadeInDown animated">Shop Now</h2></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Apply Section -->
+    
+    <section class="action section-small bg-gray2">
+      <div class="container wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
+        <div class="row">
+         
+          <div class="col-md-10">
+            <h3 class="no-pad">Want to become part of a growing organisation?</h3>
+          </div>
+          <div class="col-md-2 text-right"><a class="btn btn-dark wow fadeInDown animated" href="https://twitter.com/NMSorg" style="visibility: visible; animation-name: fadeInDown;">Apply Now!</a></div>
+        
+      </div>
+    </section>
+    
+    <!-- Twitter Section-->
+    
+    <section class="bg-gray" id="about">
+      <div class="container wow fadeIn">
+        <div class="row">
+
+          <div class="col-md-6">
+              <a class="twitter-timeline" data-height="350" data-theme="dark" href="https://twitter.com/NMSorg?ref_src=twsrc%5Etfw">Tweets by NMSorg</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br />
+
+            <center>
+              <a href="https://twitter.com/NMSorg?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" style="padding-left: 30px;">Follow @NMSorg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+            <a href="https://twitter.com/intent/tweet?screen_name=NMSorg&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @NMSorg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+          </center>
+
+          </div>
+
+          <div class="col-md-5 col-lg-offset-1">
+            <a href="https://twitter.com/NMSorg"><img style="height:350px; width:350px" src="/assets/img/twitter_resized.png" /></a>
+          </div>
+
+        </div>
+      </div>
+    </section>
+    
+    <!-- Discord Section-->
+
+    <section class="section-small bg-img4" id="subscribe">
+      <div class="overlay"></div>
+      <div class="container text-center">
+        <div class="row">
+          <div class="col-lg-6 col-lg-offset-3">
+            <h5 style="color: white;">Join our discord server!</h5>
+            <a id="applybutton" href="https://discord.gg/vAthqhG"><img src="/assets/img/discord.png" height="50px" style="vertical-align: middle;" id="discordbuttoninner"></a>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <!-- Youtube section-->
+
+<section class="bg-gray" id="about">
+      <div class="container wow fadeIn">
+        <div class="row">
+            <iframe width="100%" height="720" src="https://www.youtube.com/embed/EAbS3D8bKhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+    </section>
+
+    <!-- Apply Section -->
+    
+    <section class="action section-small bg-gray2" id="sponsors">
+      <div class="container wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
+        <div class="row">
+         
+          <div class="col-md-10">
+            <h3 class="no-pad">We are actively looking for sponsors</h3>
+          </div>
+          <div class="col-md-2 text-right"><a class="btn btn-dark wow fadeInDown animated" href="https://twitter.com/NMSorg" style="visibility: visible; animation-name: fadeInDown;">Get in touch!</a></div>
+        
+      </div>
+    </section>
+
+    <!-- Twitch section-->
+
+<section class="bg-gray" style="border-bottom: 1px grey;">
+      <div class="container wow fadeIn">
+        <div class="row">
+
+      <div id="twitch-embed"></div>
+
+            <!-- Load the Twitch embed script -->
+            <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+            <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
+
+            <iframe style="width: 100%; height: 720px" src="https://embed.twitch.tv?channel=nmsorg&amp;migration=true&amp;parent=nmsorg.co.uk&amp;parent=www.nms.local&amp;referrer=http%3A%2F%2Fwww.nms.local%2F" allowfullscreen="" scrolling="no" frameborder="0" allow="autoplay; fullscreen" title="Twitch"></iframe>
+
+        </div>
+      </div>
+    </section>
+
+  <!-- Footer Section-->
+    <section class="section-small bg-gray footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-7">
+            <h5>About</h5>
+            <p>Nothing Makes Sense is the boldest British esports organisation with a global presence. In a short space of time we have established ourselves as one of the top esports organisations. We are currently competing in CS:GO, Rocket League, FIFA, Fortnite and Rainbow 6 Siege. As well as having very entertianing Content Creators. Our rapid growth is led by our extensive experience within the gaming and esports community, along with our drive to make us a success.Here at NMS we are more than just an organisation, we are a family.</p>
+          </div>
+
+          <div class="col-md-3 col-md-offset-1 footer-menu">
+            <h5>Socials</h5>
+            <!--<h6 class="no-pad"><a href="terms">Terms & Conditions</a></h6>-->
+            <h6 class="no-pad"><a class="fab fa-twitter" href="https://twitter.com/NMSorg"><span style="color: #000; margin-left: 5px; font-family: Montserrat, sans-serif !important;">Twitter</span></a></h6>
+            <h6 class="no-pad"><a class="fab fa-twitch" href="https://www.twitch.tv/nmsorg" target="_blank"><span style="color: #000; margin-left: 5px; font-family: Montserrat, sans-serif !important;">Twitch</span></a></h6>
+            <h6 class="no-pad"><a class="fab fa-instagram" href="https://www.instagram.com/nms_org/" target="_blank"><span style="color: #000; margin-left: 5px; font-family: Montserrat, sans-serif !important;">Instagram</span></a></h6>
+            <h6 class="no-pad"><a class="fab fa-youtube" href="https://www.youtube.com/channel/UC24WSmIE2LpFr81QvbM713Q" target="_blank"><span style="color: #000; margin-left: 5px; font-family: Montserrat, sans-serif !important;">Youtube</span></a></h6>
+            <h6 class="no-pad"><a class="fab fa-discord" href="https://discord.gg/vAthqhG" target="_blank"><span style="color: #000; margin-left: 5px; font-family: Montserrat, sans-serif !important;">Discord</span></a></h6>
+            
+            
+            
+            <!--<h6 class="no-pad"><a href="our-services/uv-printing/">UV Printing</a></h6>
+            <h6 class="no-pad"><a href="our-services/sublimation/">Sublimation</a></h6>-->
+          </div>
+        
+          
+        </div>
+        <div class="row">
+          <div class="col-md-8">
+            <h6>&copy; Nothing Makes Sense LTD. </h6>
+          </div>
+
+
+    </section>
+
+
+<script type="text/javascript" src="/assets/js/jquery-1.12.4.min.js"></script><script type="text/javascript" src="/assets/js/bootstrap.min.js"></script><script type="text/javascript" src="/assets/js/jquery.easing.min.js"></script><script type="text/javascript" src="/assets/js/jquery.countdown.min.js"></script><script type="text/javascript" src="/assets/js/device.min.js"></script><script type="text/javascript" src="/assets/js/form.min.js"></script><script type="text/javascript" src="/assets/js/jquery.placeholder.min.js"></script><script type="text/javascript" src="/assets/js/jquery.shuffle.min.js"></script><script type="text/javascript" src="/assets/js/jquery.parallax.min.js"></script><script type="text/javascript" src="/assets/js/jquery.circle-progress.min.js"></script><script type="text/javascript" src="/assets/js/jquery.swipebox.min.js"></script><script type="text/javascript" src="/assets/js/smoothscroll.min.js"></script><script type="text/javascript" src="/assets/js/wow.min.js"></script><script type="text/javascript" src="/assets/js/jquery.smartmenus.js"></script><script type="text/javascript" src="/assets/js/text-rotator.min.js"></script><script type="text/javascript" src="/assets/js/main.js"></script>
+
+                                
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1954778-78"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1954778-78');
+</script>
+
+                            
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":"/cookies","theme":"light-bottom"};
+</script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
+<!-- End Cookie Consent plugin -->
+
+
+
+
+                                    
+</body>
+</html>
