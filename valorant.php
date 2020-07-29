@@ -6,7 +6,7 @@
     <!-- Custom CSS-->
     <link href="css/main.css" rel="stylesheet">
 
-    <header class="intro introhalf" data-background="/assets/img/csgo_team.jpg">
+    <header class="intro introhalf" data-background="/assets/img/valorant_team.jpg">
       <div class="intro-body">
       </div>
 	</header>  
@@ -16,41 +16,41 @@
         <div class="row justify-content-center">
 	          <div class="col-md-offset-1 col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Yen1</h2>
+	            <h2 class="classic">NMS dmsA</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/Yen1_CS"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="https://twitter.com/dmsrCS"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Captain</h6>
 	          </div>
 	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Russl</h2>
+	            <h2 class="classic">NMS Calcioman</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/RusslHills"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="https://twitter.com/Calcioman_VL"><i class="fab fa-twitter fa-lg"></i></a></li>
+	            </ul>
+	            <h6>IGL</h6>
+	          </div>
+	          <div class="col-md-2 col-sm-6">
+	            <p><img class="img-responsive center-block" src="/assets/img/racuzzi.jpg" alt=""></p>
+	            <h2 class="classic">NMS RaCuZzi</h2>
+	            <ul class="list-inline">
+	              <li><a href="https://twitter.com/zRaCuZzi"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
 	          </div>
 	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Pr0xje</h2>
+	            <h2 class="classic">NMS Catlateral</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/pr0xje"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="https://twitter.com/CatlateralVL"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
 	          </div>
 	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Wiiam</h2>
+	            <h2 class="classic">NMS Dark1x</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/WiiamCS"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Player</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Bazzle</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/BazzlECS"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="https://twitter.com/dark1x_"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
 	          </div>

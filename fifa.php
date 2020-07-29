@@ -6,7 +6,7 @@
     <!-- Custom CSS-->
     <link href="css/main.css" rel="stylesheet">
 
-    <header class="intro introhalf" data-background="/assets/img/csgo_team.jpg">
+    <header class="intro introhalf" data-background="/assets/img/fifa_team.jpg">
       <div class="intro-body">
       </div>
 	</header>  
@@ -14,43 +14,51 @@
 <section class="bg-gray text-center">
       <div class="container wow fadeIn">
         <div class="row justify-content-center">
-	          <div class="col-md-offset-1 col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Yen1</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/Yen1_CS"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Captain</h6>
-	          </div>
 	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Russl</h2>
+	            <h2 class="classic">NMS IAmG</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/RusslHills"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="https://twitter.com/iAmG___"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
 	          </div>
 	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Pr0xje</h2>
+	            <h2 class="classic">NMS Adampatel15</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/pr0xje"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="https://twitter.com/AdamPatel15"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
 	          </div>
 	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Wiiam</h2>
+	            <h2 class="classic">NMS HRbox3r</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/WiiamCS"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="https://twitter.com/HRBox3r"><i class="fab fa-twitter fa-lg"></i></a></li>
+	            </ul>
+	            <h6>Player</h6>
+	          </div>
+	          <div class="col-md-2 col-sm-6">
+	            <p><img class="img-responsive center-block" src="/assets/img/Harry_collis.jpg" alt=""></p>
+	            <h2 class="classic">NMS Collisharry</h2>
+	            <ul class="list-inline">
+	              <li><a href="https://twitter.com/collis_harry"><i class="fab fa-twitter fa-lg"></i></a></li>
+	            </ul>
+	            <h6>Player</h6>
+	          </div>
+	          <div class="col-md-2 col-sm-6">
+	            <p><img class="img-responsive center-block" src="/assets/img/Eddie.jpg" alt=""></p>
+	            <h2 class="classic">NMS Eddie</h2>
+	            <ul class="list-inline">
+	              <li><a href="https://twitter.com/eddie_bradbury"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
 	          </div>
 	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Bazzle</h2>
+	            <h2 class="classic">NMS Ethan Morley</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/BazzlECS"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="https://twitter.com/EthanMorley11"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
 	          </div>

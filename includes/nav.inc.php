@@ -4,7 +4,7 @@
         <div class="navbar-header">
           <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-main-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
 
-          <a class="navbar-brand page-scroll" href="#page-top">
+          <a class="navbar-brand page-scroll" href="/">
             <!-- Text or Image logo-->
             <div class="logobig"><span class="logo classic"><img src="/assets/img/logo.png" /></span><span class="logodark classic"><img src="/assets/img/logo-dark2.png" /></span></div></a>
 
@@ -13,7 +13,7 @@
         <div class="collapse navbar-collapse navbar-main-collapse">
           <ul class="nav navbar-nav">
         <!-- Hidden li included to remove active class from about link when scrolled up past about section-->
-            <li class="hidden"><a href="#page-top"></a></li>
+            <li class="hidden"><a href="/"></a></li>
             <!--<li><a href="/">Home <span class="caret"></span></a>
             </li>-->
 

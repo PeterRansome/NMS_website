@@ -232,3 +232,10 @@ padding-top: 37px;
 .top-nav-collapse .icon-bar {
     background: #fff;
 }
+
+.classic {
+
+    font-family: 'Montserrat, sans-serif' !important;
+    font-size: 18px !important;
+    -webkit-transform: rotate(0deg) !important;
+}
