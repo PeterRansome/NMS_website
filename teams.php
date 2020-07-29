@@ -16,38 +16,38 @@
         <div class="container">
         <div class="row portfolio-items">
             <div class="col-sm-6">
-              <div class="portfolio-item"><a href="/teams/csgo.php"><img src="/assets/img/csgo_team.jpg" alt="">
+              <div class="portfolio-item"><a href="/csgo"><img src="/assets/img/csgo_team.jpg" alt="">
               </a>
             </div>
             </div>
             <div class="col-sm-6">
-              <div class="portfolio-item"><a href="#"><img src="/assets/img/valorant_team.jpg" alt="">
+              <div class="portfolio-item"><a href="/valorant"><img src="/assets/img/valorant_team.jpg" alt="">
               </a>
               </div>
             </div>
 
           <div class="col-sm-6">
-                <div class="portfolio-item"><a href="#"><img src="/assets/img/r6_team.jpg" alt="">
+                <div class="portfolio-item"><a href="/fortnite"><img src="/assets/img/r6_team.jpg" alt="">
                 </a>
                 </div>
           </div>
           <div class="col-sm-6">
-                <div class="portfolio-item"><a href="#"><img src="/assets/img/rocket_team.jpg" alt="">
+                <div class="portfolio-item"><a href="/rocket-league"><img src="/assets/img/rocket_team.jpg" alt="">
                 </a>
                 </div>
           </div>
           <div class="col-sm-6">
-                <div class="portfolio-item"><a href="#"><img src="/assets/img/fifa_team.jpg" alt="">
+                <div class="portfolio-item"><a href="/fifa"><img src="/assets/img/fifa_team.jpg" alt="">
                 </a>
                 </div>
           </div>
           <div class="col-sm-6">
-                <div class="portfolio-item"><a href="#"><img src="/assets/img/content_team.jpg" alt="">
+                <div class="portfolio-item"><a href="/content-creators"><img src="/assets/img/content_team.jpg" alt="">
                 </a>
                 </div>
           </div>
           <div class="col-sm-6">
-                <div class="portfolio-item"><a href="#"><img src="/assets/img/management_team.jpg" alt="">
+                <div class="portfolio-item"><a href="/management"><img src="/assets/img/management_team.jpg" alt="">
                 </a>
                 </div>
           </div>
