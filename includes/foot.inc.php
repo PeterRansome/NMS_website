@@ -4,7 +4,7 @@
         <div class="row">
           <div class="col-md-7">
             <h5>About</h5>
-            <p>Nothing Makes Sense is the boldest British esports organisation with a global presence. In a short space of time we have established ourselves as one of the top esports organisations. We are currently competing in CS:GO, Rocket League, FIFA, Fortnite and Rainbow 6 Siege. As well as having very entertianing Content Creators. Our rapid growth is led by our extensive experience within the gaming and esports community, along with our drive to make us a success.Here at NMS we are more than just an organisation, we are a family.</p>
+            <p>Nothing Makes Sense is the boldest British esports organisation with a global presence. In a short space of time we have established ourselves as one of the top esports organisations. We are currently competing in CS:GO, Rocket League, FIFA, Valorant, Fortnite and Rainbow 6 Siege. As well as having very entertianing Content Creators. Our rapid growth is led by our extensive experience within the gaming and esports community, along with our drive to make us a success.Here at NMS we are more than just an organisation, we are a family.</p>
           </div>
 
           <div class="col-md-3 col-md-offset-1 footer-menu">
