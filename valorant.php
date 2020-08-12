@@ -15,7 +15,7 @@
       <div class="container wow fadeIn">
         <div class="row justify-content-center">
 	          <div class="col-md-offset-1 col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+	            <p><img class="img-responsive center-block" src="/assets/img/dmsa.png" alt=""></p>
 	            <h2 class="classic">NMS dmsA</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/dmsrCS"><i class="fab fa-twitter fa-lg"></i></a></li>
@@ -39,10 +39,10 @@
 	            <h6>Player</h6>
 	          </div>
 	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Catlateral</h2>
+	            <p><img class="img-responsive center-block" src="/assets/img/ayaya.png" alt=""></p>
+	            <h2 class="classic">NMS aYaYa</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/CatlateralVL"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="#"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
 	          </div>

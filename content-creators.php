@@ -24,9 +24,9 @@
 	          </div>
 	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Manic</h2>
+	            <h2 class="classic">NMS Moofie</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/_ManicFN"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="#"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Content Creator</h6>
 	          </div>
@@ -65,19 +65,11 @@
         </div>
 
         <div class="row justify-content-center">
-	          <div class="col-md-offset-1 col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+	          <div class="col-md-offset-2 col-md-2 col-sm-6">
+	            <p><img class="img-responsive center-block" src="/assets/img/mcv.png" alt=""></p>
 	            <h2 class="classic">NMS McVeyAT</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/McVeyAT"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Content Creator</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Keegian</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/Keegarino"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Content Creator</h6>
 	          </div>
@@ -90,7 +82,7 @@
 	            <h6>Content Creator</h6>
 	          </div>
 	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+	            <p><img class="img-responsive center-block" src="/assets/img/poizah.png" alt=""></p>
 	            <h2 class="classic">NMS Poizah</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/Poizah_"><i class="fab fa-twitter fa-lg"></i></a></li>

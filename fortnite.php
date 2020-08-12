@@ -65,8 +65,8 @@
         </div>
 
         <div class="row justify-content-center">
-	          <div class="col-md-offset-1 col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+	          <div class="col-md-2 col-sm-6">
+	            <p><img class="img-responsive center-block" src="/assets/img/yixxsa.png" alt=""></p>
 	            <h2 class="classic">NMS Yixxsa</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/yixxsa"><i class="fab fa-twitter fa-lg"></i></a></li>
@@ -97,14 +97,57 @@
 	            </ul>
 	            <h6>Player</h6>
 	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Fighter</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/expo_fighter"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Player</h6>
-	          </div>
+            <div class="col-md-2 col-sm-6">
+              <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+              <h2 class="classic">NMS Kyle</h2>
+              <ul class="list-inline">
+                <li><a href="#"><i class="fab fa-twitter fa-lg"></i></a></li>
+              </ul>
+              <h6>Player</h6>
+            </div>
+            <div class="col-md-2 col-sm-6">
+              <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+              <h2 class="classic">NMS Enda1X</h2>
+              <ul class="list-inline">
+                <li><a href="#"><i class="fab fa-twitter fa-lg"></i></a></li>
+              </ul>
+              <h6>Player</h6>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-md-offset-2 col-md-2 col-sm-6">
+              <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+              <h2 class="classic">NMS Tasteqt</h2>
+              <ul class="list-inline">
+                <li><a href="#"><i class="fab fa-twitter fa-lg"></i></a></li>
+              </ul>
+              <h6>Player</h6>
+            </div>
+            <div class="col-md-2 col-sm-6">
+              <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+              <h2 class="classic">NMS Fyzxsy</h2>
+              <ul class="list-inline">
+                <li><a href="#"><i class="fab fa-twitter fa-lg"></i></a></li>
+              </ul>
+              <h6>Player</h6>
+            </div>
+            <div class="col-md-2 col-sm-6">
+              <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+              <h2 class="classic">NMS Ellxsy</h2>
+              <ul class="list-inline">
+                <li><a href="#"><i class="fab fa-twitter fa-lg"></i></a></li>
+              </ul>
+              <h6>Player</h6>
+            </div>
+            <div class="col-md-2 col-sm-6">
+              <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+              <h2 class="classic">NMS Yuniqxbl</h2>
+              <ul class="list-inline">
+                <li><a href="#"><i class="fab fa-twitter fa-lg"></i></a></li>
+              </ul>
+              <h6>Player</h6>
+            </div>
         </div>
 
       </div>
