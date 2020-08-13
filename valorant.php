@@ -42,7 +42,7 @@
 	            <p><img class="img-responsive center-block" src="/assets/img/ayaya.png" alt=""></p>
 	            <h2 class="classic">NMS aYaYa</h2>
 	            <ul class="list-inline">
-	              <li><a href="#"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="https://twitter.com/nunbskull"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
 	          </div>
