@@ -70,7 +70,14 @@
 	            </ul>
 	            <h6>Design Manager</h6>
 	          </div>
-	          
+	          <div class="col-md-2 col-sm-6">
+	            <p><img class="img-responsive center-block" src="/assets/img/poizah.png" alt=""></p>
+	            <h2 class="classic">NMS Poizah</h2>
+	            <ul class="list-inline">
+	              <li><a href="https://twitter.com/Poizah_"><i class="fab fa-twitter fa-lg"></i></a></li>
+	            </ul>
+	            <h6>General Manager</h6>
+	          </div>
 
       </div>
     </section>
