@@ -20,35 +20,7 @@
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/EllisBowen95"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
-	            <h6>Founder</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/tyler.jpg" alt=""></p>
-	            <h2 class="classic">NMS Tyler</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/NMStyler1"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Co-Owner</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/Kogggyyyy.jpg" alt=""></p>
-	            <h2 class="classic">NMS KOGGGYYYY</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/KOGGGYYYY"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Co-Owner</h6>
-	          </div>
-	        </div>
-
-	    <div class="row justify-content-center">
-
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/Welshy.jpg" alt=""></p>
-	            <h2 class="classic">NMS Welshy</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/NmsWelshyo"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>General Manager</h6>
+				<h6>General Manager</h6>
 	          </div>
 	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/Katie.jpg" alt=""></p>
