@@ -28,7 +28,7 @@
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/its_katiejones"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
-	            <h6>Social Media Manager</h6>
+	            <h6>Media Manager</h6>
 	          </div>
 	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/Noberrrrr.jpg" alt=""></p>
