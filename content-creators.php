@@ -15,38 +15,6 @@
       <div class="container wow fadeIn">
         <div class="row justify-content-center">
 	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/Daints.jpg" alt=""></p>
-	            <h2 class="classic">NMS Daints</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/DAiiNTS"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Content Creator</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Moofie</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/ImMoofie"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Content Creator</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/abi.jpg" alt=""></p>
-	            <h2 class="classic">NMS Abi</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/abi_elinn"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Content Creator</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/Semt3Xx.jpg" alt=""></p>
-	            <h2 class="classic">NMS Semt3Xx</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/Semt3Xx14"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Content Creator</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/spartashy.jpg" alt=""></p>
 	            <h2 class="classic">NMS Spartashy</h2>
 	            <ul class="list-inline">
@@ -58,47 +26,11 @@
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
 	            <h2 class="classic">NMS RagingPain</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/delikat_thomas"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="https://twitter.com/raging_pain"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Content Creator</h6>
 	          </div>
         </div>
-
-        <div class="row justify-content-center">
-	          <div class="col-md-offset-2 col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/mcv.png" alt=""></p>
-	            <h2 class="classic">NMS McVeyAT</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/McVeyAT"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Content Creator</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/rip89.jpg" alt=""></p>
-	            <h2 class="classic">NMS Rip89</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/rip8nine"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Content Creator</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/poizah.png" alt=""></p>
-	            <h2 class="classic">NMS Poizah</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/Poizah_"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Content Creator</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/vic.jpg" alt=""></p>
-	            <h2 class="classic">NMS Vic</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/NmS_VicDamon"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Content Creator</h6>
-	          </div>
-        </div>
-
       </div>
     </section>
 
