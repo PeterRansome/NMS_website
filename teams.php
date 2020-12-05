@@ -12,7 +12,7 @@
       </div>
 </header>
 
- <section class="section-small portfolio-wide" id="portfolio">
+ <<section class="section-small portfolio-wide" id="portfolio">
         <div class="container">
         <div class="row portfolio-items">
             <div class="col-sm-6">
@@ -27,7 +27,7 @@
             </div>
 
           <div class="col-sm-6">
-                <div class="portfolio-item"><a href="/fortnite"><img src="/assets/img/r6_team.jpg" alt="">
+                <div class="portfolio-item"><a href="/fortnite"><img src="/assets/img/fortnite.jpg" alt="">
                 </a>
                 </div>
           </div>
@@ -42,12 +42,17 @@
                 </div>
           </div>
           <div class="col-sm-6">
+            <div class="portfolio-item"><a href="/Rainbow Six Siege"><img src="/assets/img/R6web.jpg" alt="">
+            </a>
+            </div>
+        </div>
+          <div class="col-sm-6">
                 <div class="portfolio-item"><a href="/content-creators"><img src="/assets/img/content_team.jpg" alt="">
                 </a>
                 </div>
           </div>
           <div class="col-sm-6">
-                <div class="portfolio-item"><a href="/management"><img src="/assets/img/management_team.jpg" alt="">
+                <div class="portfolio-item"><a href="/management"><img src="/assets/img/management.jpg" alt="">
                 </a>
                 </div>
           </div>
