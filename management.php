@@ -42,7 +42,7 @@
 	            <p><img class="img-responsive center-block" src="/assets/img/Aspectt.jpg" alt=""></p>
 	            <h2 class="classic">NMS Aspectt</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/AspecttFPS"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="https://twitter.com/CorinnaKopf"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Fortnite Manager</h6>
 	          </div>
