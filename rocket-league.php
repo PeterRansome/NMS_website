@@ -6,7 +6,7 @@
     <!-- Custom CSS-->
     <link href="css/main.css" rel="stylesheet">
 
-    <header class="intro introhalf" data-background="/assets/img/rocket_team.jpg">
+    <header class="intro introhalf" data-background="/assets/img/r6_team.jpg">
       <div class="intro-body">
       </div>
 	</header>  
