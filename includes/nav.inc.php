@@ -54,7 +54,7 @@
             <li><a class="fab fa-youtube" href="https://www.youtube.com/channel/UC24WSmIE2LpFr81QvbM713Q" target="_blank"><span class="caret"></span></a>
             </li>
 
-            <li><a class="fab fa-discord" href="https://discord.gg/vAthqhG" target="_blank"></a><span class="caret"></span></a>
+            <li><a class="fab fa-discord" href="https://discord.gg/rnAH6B2ARU" target="_blank"></a><span class="caret"></span></a>
             </li>
             
           </ul>
