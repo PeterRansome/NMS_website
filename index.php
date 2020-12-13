@@ -65,7 +65,7 @@
         <div class="row">
           <div class="col-lg-6 col-lg-offset-3">
             <h5 style="color: white;">Join our discord server!</h5>
-            <a id="applybutton" href="https://discord.gg/vAthqhG"><img src="/assets/img/discord.png" height="50px" style="vertical-align: middle;" id="discordbuttoninner"></a>
+            <a id="applybutton" href="https://discord.gg/rnAH6B2ARU"><img src="/assets/img/discord.png" height="50px" style="vertical-align: middle;" id="discordbuttoninner"></a>
           </div>
         </div>
       </div>
