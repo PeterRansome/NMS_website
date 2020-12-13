@@ -65,7 +65,7 @@
         <div class="row">
           <div class="col-lg-6 col-lg-offset-3">
             <h5 style="color: white;">Join our discord server!</h5>
-            <a id="applybutton" href="https://discord.gg/vAthqhG"><img src="/assets/img/discord.png" height="50px" style="vertical-align: middle;" id="discordbuttoninner"></a>
+            <a id="applybutton" href="https://discord.gg/rnAH6B2ARU"><img src="/assets/img/discord.png" height="50px" style="vertical-align: middle;" id="discordbuttoninner"></a>
           </div>
         </div>
       </div>
@@ -76,7 +76,7 @@
 <section class="bg-gray" id="about">
       <div class="container wow fadeIn">
         <div class="row">
-            <iframe width="100%" height="720" src="https://www.youtube.com/embed/6Oe5gg_l9Ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="720" src="https://www.youtube.com/embed/EAbS3D8bKhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </section>
