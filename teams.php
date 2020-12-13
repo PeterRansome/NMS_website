@@ -32,7 +32,7 @@
                 </div>
           </div>
           <div class="col-sm-6">
-                <div class="portfolio-item"><a href="/rainbow-six-siege"><img src="/assets/img/r6_team.jpg" alt="">
+                <div class="portfolio-item"><a href="/rocket-league.php"><img src="/assets/img/rocketl" alt="">
                 </a>
                 </div>
           </div>
