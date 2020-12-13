@@ -27,7 +27,7 @@
             </div>
 
           <div class="col-sm-6">
-                <div class="portfolio-item"><a href="/fortnite"><img src="/assets/img/r6_team.jpg" alt="">
+                <div class="portfolio-item"><a href="/fortnite"><img src="/assets/img/fortnite.jpg" alt="">
                 </a>
                 </div>
           </div>
