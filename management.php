@@ -14,54 +14,50 @@
 <section class="bg-gray text-center">
       <div class="container wow fadeIn">
         <div class="row justify-content-center">
-	          <div class="col-md-offset-3 col-md-2 col-sm-6">
+		<div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/Ellis.jpg" alt=""></p>
 	            <h2 class="classic">NMS Ellis</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/EllisBowen95"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
-				<h6>Founder/CEO</h6>
+	            <h6>Founder</h6>
+            </div>
+            <div class="col-md-2 col-sm-6">
+	            <p><img class="img-responsive center-block" src="/assets/img/racuzzi.jpg" alt=""></p>
+	            <h2 class="classic">NMS RaCuZzi</h2>
+	            <ul class="list-inline">
+	              <li><a href="https://twitter.com/RaCuZzi"><i class="fab fa-twitter fa-lg"></i></a></li>
+	            </ul>
+	            <h6>Founder</h6>
+            </div>
+            <div class="col-md-2 col-sm-6">
+	            <p><img class="img-responsive center-block" src="/assets/img/poizah.png" alt=""></p>
+	            <h2 class="classic">NMS Poizah</h2>
+	            <ul class="list-inline">
+	              <li><a href="https://twitter.com/Poizah_"><i class="fab fa-twitter fa-lg"></i></a></li>
+	            </ul>
+	            <h6>Co Owner</h6>
 	          </div>
-	          <div class="col-md-2 col-sm-6">
+            <div class="col-md-2 col-sm-6">
+	            <p><img class="img-responsive center-block" src="/assets/img/Noberrrrr.jpg" alt=""></p>
+	            <h2 class="classic">NMS Noberrrrr</h2>
+	            <ul class="list-inline">
+	              <li><a href="https://twitter.com/Noberrrrr"><i class="fab fa-twitter fa-lg"></i></a></li>
+	            </ul>
+	            <h6>Co Owner</h6>
+            </div>
+            <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/Katie.jpg" alt=""></p>
 	            <h2 class="classic">NMS Katie</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/its_katiejones"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Media Manager</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/Noberrrrr.jpg" alt=""></p>
-	            <h2 class="classic">NMS Nobberrrrr</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/nobberrrrrrr"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Fifa Manager</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/Aspectt.jpg" alt=""></p>
-	            <h2 class="classic">NMS Aspectt</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/AspecttFPS"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Fortnite Manager</h6>
-	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/envy.jpg" alt=""></p>
-	            <h2 class="classic">NMS Envyy</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/EnvyyGGs"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Fortnite Manager</h6>
-			  </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/mozzyb.jpg" alt=""></p>
-	            <h2 class="classic">NMS zRaCuZzi</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/mozzyBlive"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Founder/CEO</h6>
-	          </div>
+            </div>
+	        
+
+	    <div class="row justify-content-center">
+        
 	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
 	            <h2 class="classic">NMS GeekDesgins</h2>
@@ -70,14 +66,14 @@
 	            </ul>
 	            <h6>Design Manager</h6>
 	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/poizah.png" alt=""></p>
-	            <h2 class="classic">NMS Poizah</h2>
+            <div class="col-md-2 col-sm-6">
+	            <p><img class="img-responsive center-block" src="/assets/img/envy.jpg" alt=""></p>
+	            <h2 class="classic">NMS Envyy</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/Poizah_"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="https://twitter.com/EnvyyGGs"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
-	            <h6>General Manager</h6>
-	          </div>
+	            <h6>Fortnite Manager</h6>
+	          </div>     
 
       </div>
     </section>
