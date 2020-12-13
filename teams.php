@@ -49,6 +49,10 @@
           <div class="col-sm-6">
                 <div class="portfolio-item"><a href="/management"><img src="/assets/img/management_team.jpg" alt="">
                 </a>
+                </div>      
+          <div class="col-sm-6">
+                <div class="portfolio-item"><a href="/Rainbow Six"><img src="/assets/img/content_team.jpg" alt="">
+                </a>
                 </div>
           </div>
          </div>
