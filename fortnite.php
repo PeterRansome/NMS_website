@@ -16,20 +16,34 @@
         <div class="row justify-content-center">
 	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="" alt=""></p>
+	            <h2 class="classic">COMING SOON</h2>
+	            <ul class="list-inline">
+	              <li><a href=""><i class=""></i></a></li>
+	            </ul>
+	            <h6></h6>
+            </div>
+            section class="bg-gray text-center">
+      <div class="container wow fadeIn">
+        <div class="row justify-content-center">
+	          <div class="col-md-2 col-sm-6">
+	            <p><img class="img-responsive center-block" src="" alt=""></p>
 	            <h2 class="classic"></h2>
 	            <ul class="list-inline">
 	              <li><a href=""><i class=""></i></a></li>
 	            </ul>
 	            <h6></h6>
             </div>
-            <div class="col-md-2 col-sm-6">
+            section class="bg-gray text-center">
+      <div class="container wow fadeIn">
+        <div class="row justify-content-center">
+	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="" alt=""></p>
 	            <h2 class="classic">COMING SOON</h2>
 	            <ul class="list-inline">
 	              <li><a href=""><i class=""></i></a></li>
 	            </ul>
 	            <h6></h6>
-	          </div>
+            </div>
           </div>
 
       </div>
