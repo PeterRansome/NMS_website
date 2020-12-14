@@ -14,7 +14,7 @@
 <section class="bg-gray text-center">
       <div class="container wow fadeIn">
         <div class="row justify-content-center">
-		<div class="col-md-offset-3 col-md-2 col-sm-6">
+		<div class="col-md-offset-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
 	            <h2 class="classic">NMS Zoltan</h2>
 	            <ul class="list-inline">
