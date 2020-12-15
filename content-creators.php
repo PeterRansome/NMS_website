@@ -11,10 +11,10 @@
       </div>
 	</header>  
 
-<section class="bg-gray text-center">
+	<section class="bg-gray text-center">
       <div class="container wow fadeIn">
         <div class="row justify-content-center">
-	    <div class="col-md-2 col-sm-6">
+	          <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/spartashy.jpg" alt=""></p>
 	            <h2 class="classic">NMS Spartashy</h2>
 	            <ul class="list-inline">
@@ -22,13 +22,13 @@
 	            </ul>
 	            <h6>Content Creator</h6>
 	          </div>
-	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS RagingPain</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/raging_pain"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Content Creator</h6>
+          </div><div class="col-md-2 col-sm-6">
+            <p><img class="img-responsive center-block" src="/assets/img/crogadog.jpg" alt=""></p>
+            <h2 class="classic">NMS CROGADOG</h2>
+            <ul class="list-inline">
+              <li><a href="https://twitter.com/crogadog100"><i class="fab fa-twitter fa-lg"></i></a></li>
+            </ul>
+            <h6>Content Creator</h6>
             </div>
             <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
@@ -58,13 +58,13 @@
 	              <li><a href="https://twitter.com/Vocaz2"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Content Creator</h6>
-	          </div><div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/crogadog.jpg" alt=""></p>
-	            <h2 class="classic">NMS CROGADOG</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/crogadog100"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Content Creator</h6>
+              <div class="col-md-2 col-sm-6">
+                <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+                <h2 class="classic">NMS RagingPain</h2>
+                <ul class="list-inline">
+                  <li><a href="https://twitter.com/raging_pain"><i class="fab fa-twitter fa-lg"></i></a></li>
+                </ul>
+                <h6>Content Creator</h6>
 	          </div><div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
 	            <h2 class="classic">NMS Wook1eh</h2>
@@ -114,7 +114,7 @@
 	              <li><a href="https://twitter.com/phantom9ja"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Content Creator</h6>
-	          </div>    
+	          </div>
         </div>
       </div>
     </section>
