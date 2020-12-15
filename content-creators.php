@@ -22,11 +22,11 @@
             </ul>
             <h6>Content Creator</h6>
           </div>
-          <div class="col-md-2 col-sm-6">
-              <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-              <h2 class="classic">NMS RagingPain</h2>
+          <<div class="col-md-2 col-sm-6">
+              <p><img class="img-responsive center-block" src="/assets/img/crogadog.jpg" alt=""></p>
+              <h2 class="classic">NMS CROGADOG</h2>
               <ul class="list-inline">
-                <li><a href="https://twitter.com/raging_pain"><i class="fab fa-twitter fa-lg"></i></a></li>
+                <li><a href="https://twitter.com/crogadog100"><i class="fab fa-twitter fa-lg"></i></a></li>
               </ul>
               <h6>Content Creator</h6>
             </div>
@@ -62,11 +62,11 @@
             </ul>
             <h6>Content Creator</h6>
           </div>
-         <div class="col-md-2 col-sm-6">
-          <p><img class="img-responsive center-block" src="/assets/img/crogadog.jpg" alt=""></p>
-          <h2 class="classic">NMS CROGADOG</h2>
+		  <div class="col-md-2 col-sm-6">
+          <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+          <h2 class="classic">NMS Ragin_Pain</h2>
           <ul class="list-inline">
-            <li><a href="https://twitter.com/crogadog100"><i class="fab fa-twitter fa-lg"></i></a></li>
+            <li><a href="https://twitter.com/raging_pain"><i class="fab fa-twitter fa-lg"></i></a></li>
           </ul>
           <h6>Content Creator</h6>
           </div>  
