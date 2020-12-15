@@ -87,7 +87,7 @@
             <h6>Content Creator</h6>
           </div>
           <div class="col-md-2 col-sm-6">
-            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+            <p><img class="img-responsive center-block" src="/assets/img/cally_jpg" alt=""></p>
             <h2 class="classic">NMS Cally</h2>
             <ul class="list-inline">
               <li><a href="https://twitter.com/CallyFN"><i class="fab fa-twitter fa-lg"></i></a></li>
