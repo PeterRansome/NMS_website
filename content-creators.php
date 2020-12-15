@@ -23,18 +23,18 @@
             <h6>Content Creator</h6>
           </div>
           <<div class="col-md-2 col-sm-6">
-              <p><img class="img-responsive center-block" src="/assets/img/default.jpg" alt=""></p>
+              <p><img class="img-responsive center-block" src="/assets/img/crogadog.jpg" alt=""></p>
               <h2 class="classic">NMS CROGADOG</h2>
               <ul class="list-inline">
                 <li><a href="https://twitter.com/crogadog100"><i class="fab fa-twitter fa-lg"></i></a></li>
               </ul>
               <h6>Content Creator</h6>
             </div>
-          <div class="col-md-2 col-sm-6">
-            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-            <h2 class="classic">NMS Looney</h2>
+            <div class="col-md-2 col-sm-6">
+            <p><img class="img-responsive center-block" src="/assets/img/cally_jpg" alt=""></p>
+            <h2 class="classic">NMS Cally</h2>
             <ul class="list-inline">
-              <li><a href="https://twitter.com/ImJustLooney"><i class="fab fa-twitter fa-lg"></i></a></li>
+              <li><a href="https://twitter.com/CallyFN"><i class="fab fa-twitter fa-lg"></i></a></li>
             </ul>
             <h6>Content Creator</h6>
           </div>
@@ -86,11 +86,11 @@
             </ul>
             <h6>Content Creator</h6>
           </div>
-          <div class="col-md-2 col-sm-6">
-            <p><img class="img-responsive center-block" src="/assets/img/cally_jpg" alt=""></p>
-            <h2 class="classic">NMS Cally</h2>
+          <<div class="col-md-2 col-sm-6">
+            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+            <h2 class="classic">NMS Looney</h2>
             <ul class="list-inline">
-              <li><a href="https://twitter.com/CallyFN"><i class="fab fa-twitter fa-lg"></i></a></li>
+              <li><a href="https://twitter.com/ImJustLooney"><i class="fab fa-twitter fa-lg"></i></a></li>
             </ul>
             <h6>Content Creator</h6>
           </div>
