@@ -77,56 +77,64 @@
 	              <li><a href="https://twitter.com/kieran_fut"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
-	          </div><div class="col-md-2 col-sm-6">
+			  </div>
+			  <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
 	            <h2 class="classic">NMS MarleyC7</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/MarleyC7_"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
-	          </div><div class="col-md-2 col-sm-6">
+			  </div>
+			  <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/charlie.jpg" alt=""></p>
 	            <h2 class="classic">NMS Charlie</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/Charlie_Brown42"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
-	          </div><div class="col-md-2 col-sm-6">
+			  </div>
+			  <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/Ben.jpg" alt=""></p>
 	            <h2 class="classic">NMS Ben </h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/BenHerbert31"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
-	          </div><div class="col-md-2 col-sm-6">
+			  </div>
+			  <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/cerith.jpg" alt=""></p>
 	            <h2 class="classic">NMS Cerith</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/cerithdenniss"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
-	          </div><div class="col-md-2 col-sm-6">
+			  </div>
+			  <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/RJ.jpg" alt=""></p>
 	            <h2 class="classic">NMS RJ</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/RJFIFA_"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
-	          </div><div class="col-md-2 col-sm-6">
+			  </div>
+			  <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
 	            <h2 class="classic">NMS Hans</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/Hans_VD_Sluiss"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
-	          </div><div class="col-md-2 col-sm-6">
+			  </div>
+			  <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
 	            <h2 class="classic">NMS Megamorris</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/megamorrris"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
-	          </div><div class="col-md-2 col-sm-6">
+			  </div>
+			  <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
 	            <h2 class="classic">NMS Thommerddd</h2>
 	            <ul class="list-inline">
