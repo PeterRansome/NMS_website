@@ -39,7 +39,7 @@
             <h6>Content Creator</h6>
           </div>
           <div class="col-md-2 col-sm-6">
-            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+            <p><img class="img-responsive center-block" src="/assets/img/nich.jpg" alt=""></p>
             <h2 class="classic">NMS Nicholas</h2>
             <ul class="list-inline">
               <li><a href="https://twitter.com/NicholasPrime7"><i class="fab fa-twitter fa-lg"></i></a></li>
@@ -47,7 +47,7 @@
             <h6>Content Creator</h6>
           </div>
           <div class="col-md-2 col-sm-6">
-            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+            <p><img class="img-responsive center-block" src="/assets/img/catty.jpg" alt=""></p>
             <h2 class="classic">NMS Mistycattx</h2>
             <ul class="list-inline">
               <li><a href="https://twitter.com/mistycattx"><i class="fab fa-twitter fa-lg"></i></a></li>
