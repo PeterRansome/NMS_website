@@ -141,8 +141,7 @@
 	              <li><a href="https://twitter.com/Thommerddd"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
-	          </div>
-	          
+	          </div>      
         </div>
       </div>
     </section>
