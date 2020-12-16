@@ -75,7 +75,7 @@
 	            <h6>Fortnite Manager</h6>
             </div>
             <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+	            <p><img class="img-responsive center-block" src="/assets/img/benny.jpg" alt=""></p>
 	            <h2 class="classic">NMS Benny</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/BennyB_UK"><i class="fab fa-twitter fa-lg"></i></a></li>
