@@ -14,7 +14,7 @@
 	<section class="bg-gray text-center">
       <div class="container wow fadeIn">
         <div class="row justify-content-center">
-		<div class="col-md-2 col-sm-6">
+        <div class="col-md-2 col-sm-6">
             <p><img class="img-responsive center-block" src="/assets/img/spartashy.jpg" alt=""></p>
             <h2 class="classic">NMS Spartashy</h2>
             <ul class="list-inline">
@@ -22,7 +22,7 @@
             </ul>
             <h6>Content Creator</h6>
           </div>
-          <<div class="col-md-2 col-sm-6">
+          <div class="col-md-2 col-sm-6">
               <p><img class="img-responsive center-block" src="/assets/img/crogadog.jpg" alt=""></p>
               <h2 class="classic">NMS CROGADOG</h2>
               <ul class="list-inline">
@@ -31,13 +31,13 @@
               <h6>Content Creator</h6>
             </div>
             <div class="col-md-2 col-sm-6">
-            <p><img class="img-responsive center-block" src="/assets/img/cally_jpg" alt=""></p>
-            <h2 class="classic">NMS Cally</h2>
-            <ul class="list-inline">
-              <li><a href="https://twitter.com/CallyFN"><i class="fab fa-twitter fa-lg"></i></a></li>
-            </ul>
-            <h6>Content Creator</h6>
-          </div>
+              <p><img class="img-responsive center-block" src="/assets/img/cally.jpg" alt=""></p>
+              <h2 class="classic">NMS Cally</h2>
+              <ul class="list-inline">
+                <li><a href="https://twitter.com/CallyFN"><i class="fab fa-twitter fa-lg"></i></a></li>
+              </ul>
+              <h6>Content Creator</h6>
+            </div>
           <div class="col-md-2 col-sm-6">
             <p><img class="img-responsive center-block" src="/assets/img/nich.jpg" alt=""></p>
             <h2 class="classic">NMS Nicholas</h2>
@@ -62,7 +62,7 @@
             </ul>
             <h6>Content Creator</h6>
           </div>
-		  <div class="col-md-2 col-sm-6">
+         <div class="col-md-2 col-sm-6">
           <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
           <h2 class="classic">NMS Ragin_Pain</h2>
           <ul class="list-inline">
@@ -86,8 +86,8 @@
             </ul>
             <h6>Content Creator</h6>
           </div>
-          <<div class="col-md-2 col-sm-6">
-            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+          <div class="col-md-2 col-sm-6">
+            <p><img class="img-responsive center-block" src="/assets/img/looney.jpg" alt=""></p>
             <h2 class="classic">NMS Looney</h2>
             <ul class="list-inline">
               <li><a href="https://twitter.com/ImJustLooney"><i class="fab fa-twitter fa-lg"></i></a></li>
@@ -103,7 +103,7 @@
             <h6>Content Creator</h6>
           </div>
           <div class="col-md-2 col-sm-6">
-            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+            <p><img class="img-responsive center-block" src="/assets/img/wax.jpg" alt=""></p>
             <h2 class="classic">NMS Wax</h2>
             <ul class="list-inline">
               <li><a href="https://twitter.com/WaxAccessible"><i class="fab fa-twitter fa-lg"></i></a></li>
@@ -119,7 +119,7 @@
             <h6>Content Creator</h6>
           </div>
           <div class="col-md-2 col-sm-6">
-            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+            <p><img class="img-responsive center-block" src="/assets/img/phantom.jpg" alt=""></p>
             <h2 class="classic">NMS Phantom9ja</h2>
             <ul class="list-inline">
               <li><a href="https://twitter.com/phantom9ja"><i class="fab fa-twitter fa-lg"></i></a></li>
