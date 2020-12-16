@@ -15,7 +15,7 @@
       <div class="container wow fadeIn">
         <div class="row justify-content-center">
 		<div class="col-md-2 col-sm-6">
-			<p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
 	            <h2 class="classic">NMS ESNL</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/ESNLGaming"><i class="fab fa-twitter fa-lg"></i></a></li>
@@ -85,28 +85,28 @@
 	            </ul>
 	            <h6>Player</h6>
 	          </div><div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+	            <p><img class="img-responsive center-block" src="/assets/img/charlie.jpg" alt=""></p>
 	            <h2 class="classic">NMS Charlie</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/Charlie_Brown42"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
 	          </div><div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+	            <p><img class="img-responsive center-block" src="/assets/img/Ben.jpg" alt=""></p>
 	            <h2 class="classic">NMS Ben </h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/BenHerbert31"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
 	          </div><div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+	            <p><img class="img-responsive center-block" src="/assets/img/cerith.jpg" alt=""></p>
 	            <h2 class="classic">NMS Cerith</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/cerithdenniss"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Player</h6>
 	          </div><div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+	            <p><img class="img-responsive center-block" src="/assets/img/RJ.jpg" alt=""></p>
 	            <h2 class="classic">NMS RJ</h2>
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/RJFIFA_"><i class="fab fa-twitter fa-lg"></i></a></li>
