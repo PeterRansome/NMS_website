@@ -67,12 +67,12 @@
 	    <div class="row justify-content-center">
         
 	          <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/envy.jpg" alt=""></p>
-	            <h2 class="classic">NMS Envyy</h2>
+	            <p><img class="img-responsive center-block" src="/assets/img/default.jpg" alt=""></p>
+	            <h2 class="classic">NMS Kelly</h2>
 	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/EnvyyGGs"><i class="fab fa-twitter fa-lg"></i></a></li>
+	              <li><a href="https://twitter.com/Kellyleo3"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
-	            <h6>Fortnite Manager</h6>
+	            <h6>Fifa Manager</h6>
             </div>
             <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/benny.jpg" alt=""></p>
@@ -90,14 +90,6 @@
 	            </ul>
 	            <h6>Design Manager</h6>
 			  </div>
-			  <div class="col-md-2 col-sm-6">
-	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-	            <h2 class="classic">NMS Kelly</h2>
-	            <ul class="list-inline">
-	              <li><a href="https://twitter.com/kellyleo310"><i class="fab fa-twitter fa-lg"></i></a></li>
-	            </ul>
-	            <h6>Fifa Manager</h6>
-	          </div>
 		</div>
     </section>
 
