@@ -30,14 +30,6 @@
               </ul>
               <h6>Content Creator</h6>
             </div>
-            <div class="col-md-2 col-sm-6">
-              <p><img class="img-responsive center-block" src="/assets/img/cally.jpg" alt=""></p>
-              <h2 class="classic">NMS Cally</h2>
-              <ul class="list-inline">
-                <li><a href="https://twitter.com/CallyFN"><i class="fab fa-twitter fa-lg"></i></a></li>
-              </ul>
-              <h6>Content Creator</h6>
-            </div>
           <div class="col-md-2 col-sm-6">
             <p><img class="img-responsive center-block" src="/assets/img/nich.jpg" alt=""></p>
             <h2 class="classic">NMS Nicholas</h2>
@@ -74,23 +66,7 @@
             <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
             <h2 class="classic">NMS Alex</h2>
             <ul class="list-inline">
-            <li><a href="https://twitter.com/alexrichards94"><i class="fab fa-twitter fa-lg"></i></a></li>
-            </ul>
-            <h6>Content Creator</h6>
-          </div>
-          <div class="col-md-2 col-sm-6">
-            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-            <h2 class="classic">NMS GeoxFN</h2>
-            <ul class="list-inline">
-              <li><a href="https://twitter.com/GeoxFNBR"><i class="fab fa-twitter fa-lg"></i></a></li>
-            </ul>
-            <h6>Content Creator</h6>
-          </div>
-          <div class="col-md-2 col-sm-6">
-            <p><img class="img-responsive center-block" src="/assets/img/looney.jpg" alt=""></p>
-            <h2 class="classic">NMS Looney</h2>
-            <ul class="list-inline">
-              <li><a href="https://twitter.com/ImJustLooney"><i class="fab fa-twitter fa-lg"></i></a></li>
+              <li><a href="https://twitter.com/alexrichards94"><i class="fab fa-twitter fa-lg"></i></a></li>
             </ul>
             <h6>Content Creator</h6>
           </div>
@@ -123,14 +99,6 @@
             <h2 class="classic">NMS Phantom9ja</h2>
             <ul class="list-inline">
               <li><a href="https://twitter.com/phantom9ja"><i class="fab fa-twitter fa-lg"></i></a></li>
-            </ul>
-            <h6>Content Creator</h6>
-          </div>
-          <div class="col-md-2 col-sm-6">
-            <p><img class="img-responsive center-block" src="/assets/img/jordanwheels.jpg" alt=""></p>
-            <h2 class="classic">NMS Jordanwheels</h2>
-            <ul class="list-inline">
-              <li><a href="https://twitter.com/jordangotwheels"><i class="fab fa-twitter fa-lg"></i></a></li>
             </ul>
             <h6>Content Creator</h6>
           </div>

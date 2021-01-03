@@ -89,6 +89,14 @@
 	              <li><a href="https://twitter.com/GeekDesignGFX"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Design Manager</h6>
+			</div>
+			<div class="col-md-2 col-sm-6">
+              <p><img class="img-responsive center-block" src="/assets/img/jordanwheels.jpg" alt=""></p>
+              <h2 class="classic">NMS Jordanwheels</h2>
+              <ul class="list-inline">
+                <li><a href="https://twitter.com/jordangotwheels"><i class="fab fa-twitter fa-lg"></i></a></li>
+              </ul>
+              <h6>Content Manager</h6>
             </div>
 		</div>
     </section>
