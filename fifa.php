@@ -14,7 +14,7 @@
 <section class="bg-gray text-center">
       <div class="container wow fadeIn">
         <div class="row justify-content-center">
-		<div class="col-md-2 col-sm-6">
+        <div class="col-md-2 col-sm-6">
             <p><img class="img-responsive center-block" src="/assets/img/Marley.jpg" alt=""></p>
                     <h2 class="classic">NMS MarleyC7</h2>
                     <ul class="list-inline">
@@ -72,9 +72,9 @@
                   </div>
                   <div class="col-md-2 col-sm-6">
                     <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-                    <h2 class="classic">NMS Kieran</h2>
+                    <h2 class="classic">NMS Yunga</h2>
                     <ul class="list-inline">
-                      <li><a href="https://twitter.com/kieran_fut"><i class="fab fa-twitter fa-lg"></i></a></li>
+                      <li><a href="https://twitter.com/FifaYunga"><i class="fab fa-twitter fa-lg"></i></a></li>
                     </ul>
                     <h6>Player</h6>
                   </div>
@@ -131,6 +131,22 @@
                     </ul>
                     <h6>Player</h6>
                   </div>
+                </div><div class="col-md-2 col-sm-6">
+                  <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+                  <h2 class="classic">NMS David</h2>
+                  <ul class="list-inline">
+                    <li><a href="https://twitter.com/DavidBu81314474"><i class="fab fa-twitter fa-lg"></i></a></li>
+                  </ul>
+                  <h6>Player</h6>
+                </div>
+              </div><div class="col-md-2 col-sm-6">
+                <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+                <h2 class="classic">NMS Andy</h2>
+                <ul class="list-inline">
+                  <li><a href="https://twitter.com/Andrew_Twomey97"><i class="fab fa-twitter fa-lg"></i></a></li>
+                </ul>
+                <h6>Player</h6>
+              </div>
 	          
         </div>
       </div>
