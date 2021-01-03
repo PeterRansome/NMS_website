@@ -123,7 +123,8 @@
                       <li><a href="https://twitter.com/megamorrris"><i class="fab fa-twitter fa-lg"></i></a></li>
                     </ul>
                     <h6>Player</h6>
-                  </div><div class="col-md-2 col-sm-6">
+                  </div>
+                  <div class="col-md-2 col-sm-6">
                     <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
                     <h2 class="classic">NMS Thommerddd</h2>
                     <ul class="list-inline">
@@ -131,7 +132,7 @@
                     </ul>
                     <h6>Player</h6>
                   </div>
-                </div><div class="col-md-2 col-sm-6">
+                  <div class="col-md-2 col-sm-6">
                   <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
                   <h2 class="classic">NMS David</h2>
                   <ul class="list-inline">
@@ -139,7 +140,7 @@
                   </ul>
                   <h6>Player</h6>
                 </div>
-              </div><div class="col-md-2 col-sm-6">
+              <div class="col-md-2 col-sm-6">
                 <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
                 <h2 class="classic">NMS Andy</h2>
                 <ul class="list-inline">
