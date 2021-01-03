@@ -102,6 +102,22 @@
             </ul>
             <h6>Content Creator</h6>
           </div>
+          <div class="col-md-2 col-sm-6">
+            <p><img class="img-responsive center-block" src="/assets/img/phantom.jpg" alt=""></p>
+            <h2 class="classic">NMS Savage</h2>
+            <ul class="list-inline">
+              <li><a href="https://twitter.com/Savage_Lifex"><i class="fab fa-twitter fa-lg"></i></a></li>
+            </ul>
+            <h6>Content Creator</h6>
+          </div>
+          <div class="col-md-2 col-sm-6">
+            <p><img class="img-responsive center-block" src="/assets/img/phantom.jpg" alt=""></p>
+            <h2 class="classic">NMS JRT</h2>
+            <ul class="list-inline">
+              <li><a href="https://twitter.com/11JRT"><i class="fab fa-twitter fa-lg"></i></a></li>
+            </ul>
+            <h6>Content Creator</h6>
+          </div>
         </div>
         </div>
       </div>
