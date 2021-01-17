@@ -110,9 +110,9 @@
                   </div>
                   <div class="col-md-2 col-sm-6">
                     <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-                    <h2 class="classic">NMS xLBoltsyx</h2>
+                    <h2 class="classic">NMS MP9Mike</h2>
                     <ul class="list-inline">
-                      <li><a href="https://twitter.com/xLBoltsyx"><i class="fab fa-twitter fa-lg"></i></a></li>
+                      <li><a href="https://twitter.com/MP9Mike"><i class="fab fa-twitter fa-lg"></i></a></li>
                     </ul>
                     <h6>Player</h6>
                   </div>
@@ -145,6 +145,38 @@
                 <h2 class="classic">NMS Andy</h2>
                 <ul class="list-inline">
                   <li><a href="https://twitter.com/Andrew_Twomey97"><i class="fab fa-twitter fa-lg"></i></a></li>
+                </ul>
+                <h6>Player</h6>
+              </div>
+              <div class="col-md-2 col-sm-6">
+                <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+                <h2 class="classic">NMS Corey</h2>
+                <ul class="list-inline">
+                  <li><a href="https://twitter.com/I_CoreyDenton10"><i class="fab fa-twitter fa-lg"></i></a></li>
+                </ul>
+                <h6>Player</h6>
+              </div>
+              <div class="col-md-2 col-sm-6">
+                <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+                <h2 class="classic">NMS Connor</h2>
+                <ul class="list-inline">
+                  <li><a href="https://twitter.com/bigmacg20"><i class="fab fa-twitter fa-lg"></i></a></li>
+                </ul>
+                <h6>Player</h6>
+              </div>
+              <div class="col-md-2 col-sm-6">
+                <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+                <h2 class="classic">NMS Duaine</h2>
+                <ul class="list-inline">
+                  <li><a href="https://twitter.com/Duaineml0_"><i class="fab fa-twitter fa-lg"></i></a></li>
+                </ul>
+                <h6>Player</h6>
+              </div>
+              <div class="col-md-2 col-sm-6">
+                <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+                <h2 class="classic">NMS Synergy</h2>
+                <ul class="list-inline">
+                  <li><a href="https://twitter.com/SynergyFUT"><i class="fab fa-twitter fa-lg"></i></a></li>
                 </ul>
                 <h6>Player</h6>
               </div>

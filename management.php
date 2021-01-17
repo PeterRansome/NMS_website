@@ -80,7 +80,7 @@
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/Kellyleo3"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
-	            <h6>Fifa Manager</h6>
+	            <h6>Fifa Coach</h6>
             </div>
             <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
@@ -106,14 +106,6 @@
               </ul>
               <h6>Content Manager</h6>
 			</div>
-			<div class="col-md-2 col-sm-6">
-              <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-              <h2 class="classic">NMS Heardy768</h2>
-              <ul class="list-inline">
-                <li><a href="https://twitter.com/Heardy768"><i class="fab fa-twitter fa-lg"></i></a></li>
-              </ul>
-              <h6>Community Manager</h6>
-            </div>
 		</div>
     </section>
 
