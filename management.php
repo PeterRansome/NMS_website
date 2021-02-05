@@ -44,7 +44,7 @@
 	            <ul class="list-inline">
 	              <li><a href="https://twitter.com/BennyB_UK"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
-	            <h6>Community Manager</h6>
+	            <h6>Community</h6>
             </div>
             <div class="col-md-2 col-sm-6">
 	            <p><img class="img-responsive center-block" src="/assets/img/Katie.jpg" alt=""></p>
