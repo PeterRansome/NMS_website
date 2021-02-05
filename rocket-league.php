@@ -14,7 +14,7 @@
 	<section class="bg-gray text-center">
     <div class="container wow fadeIn">
       <div class="row justify-content-center">
-          <div class="col-md-2 col-sm-6">
+      <div class="col-md-2 col-sm-6">
             <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
             <h2 class="classic">NMS Zoltan</h2>
             <ul class="list-inline">
@@ -24,17 +24,17 @@
           </div>
           <div class="col-md-2 col-sm-6">
             <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-            <h2 class="classic">NMS Modality</h2>
+            <h2 class="classic">NMS F1re</h2>
             <ul class="list-inline">
-              <li><a href="https://twitter.com/ModalityR6"><i class="fab fa-twitter fa-lg"></i></a></li>
+              <li><a href="https://twitter.com/F1RE_R6"><i class="fab fa-twitter fa-lg"></i></a></li>
             </ul>
             <h6>Player</h6>
           </div>
           <div class="col-md-2 col-sm-6">
             <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-            <h2 class="classic">NMS Dash</h2>
+            <h2 class="classic">NMS Yung</h2>
             <ul class="list-inline">
-              <li><a href="https://twitter.com/xDashii"><i class="fab fa-twitter fa-lg"></i></a></li>
+              <li><a href="https://twitter.com/yungisBAD"><i class="fab fa-twitter fa-lg"></i></a></li>
             </ul>
             <h6>Player</h6>
           </div>
@@ -48,9 +48,9 @@
           </div>
           <div class="col-md-2 col-sm-6">
             <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-            <h2 class="classic">NMS Voya</h2>
+            <h2 class="classic">NMS VeterAn</h2>
             <ul class="list-inline">
-              <li><a href="https://twitter.com/the_voya"><i class="fab fa-twitter fa-lg"></i></a></li>
+              <li><a href="https://twitter.com/R6VeterAn"><i class="fab fa-twitter fa-lg"></i></a></li>
             </ul>
             <h6>Player</h6>
           </div>
@@ -58,10 +58,10 @@
             <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
             <h2 class="classic">NMS VeterAn</h2>
             <ul class="list-inline">
-              <li><a href="https://twitter.com/R6VeterAn"><i class="fab fa-twitter fa-lg"></i></a></li>
+              <li><a href="https://twitter.com/the_voya"><i class="fab fa-twitter fa-lg"></i></a></li>
             </ul>
-            <h6>Coach</h6>
-          </div>     
+            <h6>Sub</h6>
+          </div>
         </div>
       </div>
     </section>
