@@ -64,7 +64,7 @@
 	          </div>
 	        
 
-	    <div class="row justify-content-center">
+	    
         
           <div class="col-md-2 col-sm-6">
           <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
