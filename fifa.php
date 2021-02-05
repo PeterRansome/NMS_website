@@ -45,6 +45,7 @@
                       <li><a href="https://twitter.com/AshleyCFC02"><i class="fab fa-twitter fa-lg"></i></a></li>
                     </ul>
                     <h6>Player</h6>
+                  </div>
                   <div class="col-md-2 col-sm-6">
                     <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
                     <h2 class="classic">NMS EthanECR</h2>
