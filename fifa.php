@@ -15,28 +15,12 @@
       <div class="container wow fadeIn">
         <div class="row justify-content-center">
         <div class="col-md-2 col-sm-6">
-            <p><img class="img-responsive center-block" src="/assets/img/Marley.jpg" alt=""></p>
-                    <h2 class="classic">NMS MarleyC7</h2>
-                    <ul class="list-inline">
-                      <li><a href="https://twitter.com/ESNLGaming"><i class="fab fa-twitter fa-lg"></i></a></li>
-                    </ul>
-                    <h6>Xbox Captain</h6>
-                  </div>
-                  <div class="col-md-2 col-sm-6">
                     <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
                     <h2 class="classic">NMS Hans</h2>
                     <ul class="list-inline">
                       <li><a href="https://twitter.com/Hans_VD_Sluiss"><i class="fab fa-twitter fa-lg"></i></a></li>
                     </ul>
                     <h6>PS4 Captain</h6>
-                  </div>
-                  <div class="col-md-2 col-sm-6">
-                    <p><img class="img-responsive center-block" src="/assets/img/RJ.jpg" alt=""></p>
-                    <h2 class="classic">NMS RJ</h2>
-                    <ul class="list-inline">
-                      <li><a href="https://twitter.com/RJFIFA_"><i class="fab fa-twitter fa-lg"></i></a></li>
-                    </ul>
-                    <h6>Player</h6>
                   </div>
                   <div class="col-md-2 col-sm-6">
                     <p><img class="img-responsive center-block" src="/assets/img/Ben.jpg" alt=""></p>
@@ -56,51 +40,12 @@
                   </div>
                   <div class="col-md-2 col-sm-6">
                     <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-                    <h2 class="classic">NMS Wkellington</h2>
-                    <ul class="list-inline">
-                      <li><a href="https://twitter.com/Wkellington_"><i class="fab fa-twitter fa-lg"></i></a></li>
-                    </ul>
-                    <h6>Player</h6>
-                  </div>
-                  <div class="col-md-2 col-sm-6">
-                    <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-                    <h2 class="classic">NMS Wormey8</h2>
-                    <ul class="list-inline">
-                      <li><a href="https://twitter.com/JWormey8"><i class="fab fa-twitter fa-lg"></i></a></li>
-                    </ul>
-                    <h6>Player</h6>
-                  </div>
-                  <div class="col-md-2 col-sm-6">
-                    <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-                    <h2 class="classic">NMS Yunga</h2>
-                    <ul class="list-inline">
-                      <li><a href="https://twitter.com/FifaYunga"><i class="fab fa-twitter fa-lg"></i></a></li>
-                    </ul>
-                    <h6>Player</h6>
-                  </div>
-                  <div class="col-md-2 col-sm-6">
-                    <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-                    <h2 class="classic">NMS Charlie</h2>
-                    <ul class="list-inline">
-                      <li><a href="https://twitter.com/Charlie_Brown42"><i class="fab fa-twitter fa-lg"></i></a></li>
-                    </ul>
-                    <h6>Player</h6>
-                  </div>
-                  <div class="col-md-2 col-sm-6">
-                    <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
                     <h2 class="classic">NMS Ashley</h2>
                     <ul class="list-inline">
                       <li><a href="https://twitter.com/AshleyCFC02"><i class="fab fa-twitter fa-lg"></i></a></li>
                     </ul>
                     <h6>Player</h6>
-                  </div><div class="col-md-2 col-sm-6">
-                    <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-                    <h2 class="classic">NMS Eastick</h2>
-                    <ul class="list-inline">
-                      <li><a href="https://twitter.com/_eastick"><i class="fab fa-twitter fa-lg"></i></a></li>
-                    </ul>
-                    <h6>Player</h6>
-                  </div><div class="col-md-2 col-sm-6">
+                  <div class="col-md-2 col-sm-6">
                     <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
                     <h2 class="classic">NMS EthanECR</h2>
                     <ul class="list-inline">
@@ -132,7 +77,7 @@
                     </ul>
                     <h6>Player</h6>
                   </div>
-                  <div class="col-md-2 col-sm-6">
+                <div class="col-md-2 col-sm-6">
                   <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
                   <h2 class="classic">NMS David</h2>
                   <ul class="list-inline">
@@ -161,14 +106,6 @@
                 <h2 class="classic">NMS Connor</h2>
                 <ul class="list-inline">
                   <li><a href="https://twitter.com/bigmacg20"><i class="fab fa-twitter fa-lg"></i></a></li>
-                </ul>
-                <h6>Player</h6>
-              </div>
-              <div class="col-md-2 col-sm-6">
-                <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-                <h2 class="classic">NMS Duaine</h2>
-                <ul class="list-inline">
-                  <li><a href="https://twitter.com/Duaineml0_"><i class="fab fa-twitter fa-lg"></i></a></li>
                 </ul>
                 <h6>Player</h6>
               </div>
