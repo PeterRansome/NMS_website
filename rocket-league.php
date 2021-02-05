@@ -56,7 +56,7 @@
           </div>
           <div class="col-md-2 col-sm-6">
             <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
-            <h2 class="classic">NMS VeterAn</h2>
+            <h2 class="classic">NMS Voya</h2>
             <ul class="list-inline">
               <li><a href="https://twitter.com/the_voya"><i class="fab fa-twitter fa-lg"></i></a></li>
             </ul>
