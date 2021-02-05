@@ -61,10 +61,34 @@
 	              <li><a href="https://twitter.com/Tylerfifa23"><i class="fab fa-twitter fa-lg"></i></a></li>
 	            </ul>
 	            <h6>Fifa Coach</h6>
-	          </div>
+			  </div>
+			<div class="col-md-2 col-sm-6">
+          <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+          <h2 class="classic">NMS DeviouzOG</h2>
+          <ul class="list-inline">
+            <li><a href="https://twitter.com/Deviouz0G"><i class="fab fa-twitter fa-lg"></i></a></li>
+           </ul>
+           <h6>Content Manager US</h6>
+           </div>   
+            <div class="col-md-2 col-sm-6">
+	            <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
+	            <h2 class="classic">NMS GeekDesgins</h2>
+	            <ul class="list-inline">
+	              <li><a href="https://twitter.com/GeekDesignGFX"><i class="fab fa-twitter fa-lg"></i></a></li>
+	            </ul>
+	            <h6>Design Manager</h6>
+            </div>
+            <div class="col-md-2 col-sm-6">
+              <p><img class="img-responsive center-block" src="/assets/img/jordanwheels.jpg" alt=""></p>
+              <h2 class="classic">NMS Jordanwheels</h2>
+              <ul class="list-inline">
+                <li><a href="https://twitter.com/jordangotwheels"><i class="fab fa-twitter fa-lg"></i></a></li>
+              </ul>
+              <h6>Content Manager US</h6>
+            </div>
 	        
 
-	    
+		 <div class="row justify-content-center">
         
           <div class="col-md-2 col-sm-6">
           <p><img class="img-responsive center-block" src="/assets/img/default.png" alt=""></p>
